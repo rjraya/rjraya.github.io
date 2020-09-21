@@ -112,5 +112,62 @@ instance Monad Maybe' where
  (Just' x) >>= f = (f x)
 ``` 
 
+## Monad as functor and applicative
+
+A monad is more powerful than a functor:
+
+```
+liftM :: Monad m => (a -> b) -> m a -> m b
+fmap :: Functor m => (a -> b) -> m a -> m b
+
+liftM f m = m >>= return . f
+
+liftM f m = do 
+ val <- m
+ return (f val)
+
+instance Functor Monad where
+ fmap = liftM
+```
+
+A monad is more powerful than an applicative:
+
+```
+ap mf mx = do 
+ f <- mf 
+ x <- mx
+ return (f x)
+
+instance Applicative Monad where
+ pure = return 
+ (<*>) = ap
+```
+
+the Functor-Applicative-Monad proposal describes a convention on what function to use in each case. 
+
+## Sequencing with Monad and Applicative
+
+Applicative allows sequencing actions that happen in isolation. The only communication allowed is that an action may stop the evaluation of the sequence. 
+
+Monad allows sequences of actions to communicate, i.e. to perform different actions depending on the result of previous actions.
+
+```
+action s = do putStrLn s; return s
+main = do 
+ let actions = map action ["parts", "are", "disconnected"]
+ sequence' actions
+ return ()
+
+sequence' [] = return []
+sequence' (x:xs) = do 
+ x' <- x
+ xs' <- sequence' xs
+ return (x':xs)
+
+sequenceA [] = pure []
+sequenceA (x:xs) = (:) <$> x <*> (sequenceA xs)
+``` 
+
+
 
 

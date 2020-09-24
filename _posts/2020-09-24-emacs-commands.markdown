@@ -14,3 +14,11 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 | Command  | Description |
 | ------------- | ------------- |
 | C-h ? | help for help  |
+
+# Search commands
+
+| Command  | Description |
+| ------------- | ------------- |
+| C-s |  prompts for text string and then searches from the current cursor position forwards in the buffer  |
+
+TODO: once found, how to scan new commands

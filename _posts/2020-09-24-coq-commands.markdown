@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emacs commands"
+title:  "Coq commands"
 date:   2020-09-24 16:39:24 +0200
 categories: emacs
 ---

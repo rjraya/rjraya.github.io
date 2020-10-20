@@ -22,3 +22,11 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 | C-s |  prompts for text string and then searches from the current cursor position forwards in the buffer  |
 
 TODO: once found, how to scan new commands
+
+# Coq commands
+
+TODO: is it my settings?
+
+| Command  | Description |
+| ------------- | ------------- |
+| C-c C-d | see definition of Coq code |

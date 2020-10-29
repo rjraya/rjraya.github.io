@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Enlaces útiles"
+date:   2020-10-30 16:39:24 +0200
+categories: git
+---
+
+Hay muchos enlaces útiles en lógica. 
+
+Premio Paul Bernays: http://www.sslps.unibe.ch/Bernays.html

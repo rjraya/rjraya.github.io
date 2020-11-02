@@ -11,6 +11,8 @@ categories: isabelle
 
 [Isabelle community on Zulip][zulip]
 
+Isabelle IRC channel on Freenode
+
 
 [mailing-list]: https://lists.cam.ac.uk/pipermail/cl-isabelle-users/index.html
 [stackoverflow]: https://stackoverflow.com/questions/tagged/isabelle

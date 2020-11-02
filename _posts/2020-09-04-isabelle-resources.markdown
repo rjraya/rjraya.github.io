@@ -9,7 +9,10 @@ categories: isabelle
 
 [Isabelle community on Stackoverflow][stackoverflow]
 
+[Isabelle community on Zulip][zulip]
+
 
 [mailing-list]: https://lists.cam.ac.uk/pipermail/cl-isabelle-users/index.html
 [stackoverflow]: https://stackoverflow.com/questions/tagged/isabelle
+[zulip]: https://isabelle.zulipchat.com/
 

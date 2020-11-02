@@ -7,4 +7,10 @@ categories: git
 
 Hay muchos enlaces útiles en lógica. 
 
+# Premios
+
 Premio Paul Bernays: http://www.sslps.unibe.ch/Bernays.html
+
+# Becas
+
+Máster en TU Wien: http://www.vcla.at/helmut-veith-stipend/

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Research"
+date:   2021-10-03 16:39:24 +0200
+categories: links
+---
+
+Links for my research:
+
+# Related work
+
+[Termination in Isabelle][krauss]
+
+# Writing
+
+[The Craft of Writing Effectively][mcenerney] 
+
+# Talk
+
+[How To Speak by Patrick Winston][winston]
+[How to give a great research talk][peyton]
+
+[krauss]: https://www21.in.tum.de/~krauss/papers/krauss-thesis.pdf
+[mcenerney]: https://www.youtube.com/watch?v=vtIzMaLkCaM
+[winston]: https://www.youtube.com/watch?v=vtIzMaLkCaM
+[peyton]: https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/

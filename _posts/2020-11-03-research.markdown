@@ -26,6 +26,10 @@ Watch for Tarski and Cousot.
 [Lattice-Theoretic Progress Measuresand Coalgebraic Model Checking][dubut1]
 [Fibrational Framework for Nested Alternating Fixed Points and(Bi)Simulation Notions for Büchi Automata][aristote]
 
+### Coinduction
+
+https://www.chargueraud.org/research/2010/fix/fix.pdf
+
 
 ### Writing
 

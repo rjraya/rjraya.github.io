@@ -9,7 +9,23 @@ Links for my research:
 
 # Related work
 
+## Systems
+
 [Termination in Isabelle][krauss]
+
+## Link with topology
+
+### General
+
+[Application de la topologie algébrique en informatique théorique][dubut]
+
+### Progress measures
+
+Watch for Tarski and Cousot. 
+
+[Lattice-Theoretic Progress Measuresand Coalgebraic Model Checking][dubut1]
+[Fibrational Framework for Nested Alternating Fixed Points and(Bi)Simulation Notions for Büchi Automata][aristote]
+
 
 # Writing
 
@@ -18,9 +34,13 @@ Links for my research:
 # Talk
 
 [How To Speak by Patrick Winston][winston]
+
 [How to give a great research talk][peyton]
 
 [krauss]: https://www21.in.tum.de/~krauss/papers/krauss-thesis.pdf
+[dubut]: https://group-mmm.org/~dubut/papers/master12.pdf
+[dubut1]: https://arxiv.org/pdf/1511.00346.pdf
+[aristote]: https://git.eleves.ens.fr/qaristote/m1-internship-report/uploads/3431548a277eb5fc297d8e7d93d1e3ce/aristote_quentin_m1_internship_report.pdf
 [mcenerney]: https://www.youtube.com/watch?v=vtIzMaLkCaM
 [winston]: https://www.youtube.com/watch?v=vtIzMaLkCaM
 [peyton]: https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/

@@ -7,7 +7,7 @@ categories: links
 
 Links for my research:
 
-# Related work
+### Related work
 
 ## Systems
 
@@ -27,11 +27,11 @@ Watch for Tarski and Cousot.
 [Fibrational Framework for Nested Alternating Fixed Points and(Bi)Simulation Notions for Büchi Automata][aristote]
 
 
-# Writing
+### Writing
 
 [The Craft of Writing Effectively][mcenerney] 
 
-# Talk
+### Talk
 
 [How To Speak by Patrick Winston][winston]
 

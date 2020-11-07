@@ -7,7 +7,7 @@ categories: links
 
 Links for my research:
 
-### Related work
+# Related work
 
 ## Systems
 
@@ -32,11 +32,11 @@ Watch for Tarski and Cousot.
 https://www.chargueraud.org/research/2010/fix/fix.pdf
 
 
-### Writing
+# Writing
 
 [The Craft of Writing Effectively][mcenerney] 
 
-### Talk
+# Talk
 
 [How To Speak by Patrick Winston][winston]
 
@@ -50,3 +50,7 @@ https://www.chargueraud.org/research/2010/fix/fix.pdf
 [mcenerney]: https://www.youtube.com/watch?v=vtIzMaLkCaM
 [winston]: https://www.youtube.com/watch?v=vtIzMaLkCaM
 [peyton]: https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
+
+# Events
+
+http://www.cs.nott.ac.uk/MGS/

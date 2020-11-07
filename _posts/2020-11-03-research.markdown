@@ -12,6 +12,7 @@ Links for my research:
 ## Systems
 
 [Termination in Isabelle][krauss]
+[Rewrite engine with DSL][kansas]
 
 ## Link with topology
 
@@ -42,6 +43,7 @@ https://www.chargueraud.org/research/2010/fix/fix.pdf
 [How to give a great research talk][peyton]
 
 [krauss]: https://www21.in.tum.de/~krauss/papers/krauss-thesis.pdf
+[kansas]: https://ku-fpg.github.io/software/kure/
 [dubut]: https://group-mmm.org/~dubut/papers/master12.pdf
 [dubut1]: https://arxiv.org/pdf/1511.00346.pdf
 [aristote]: https://git.eleves.ens.fr/qaristote/m1-internship-report/uploads/3431548a277eb5fc297d8e7d93d1e3ce/aristote_quentin_m1_internship_report.pdf

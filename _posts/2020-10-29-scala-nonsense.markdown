@@ -9,5 +9,15 @@ Here I collect some Scala nonsense.
 
 [Self types][self-types]
 
+```
+trait A { self: B => 
+
+}
+```
+
+forces functionality of A to be only used by elements of type B. 
+
+It declares a relation A uses B. 
+
 [self-types]: https://docs.scala-lang.org/tour/self-types.html
 

@@ -18,3 +18,5 @@ That'll produce a new jar somewhere locally (whose semi-auto-generated name you 
 You'll then have to substitute that name somewhere in stainless's built.sbt and reload the stainless sbt project
 
 At that point you'll be using your locally modified version of inox
+
+https://github.com/scalameta/metals/issues/2198

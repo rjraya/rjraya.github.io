@@ -7,6 +7,8 @@ categories: links
 
 Here are some notes on dealing with some software tools I'm working on. 
 
+# Developing
+
 I described issues building Stainless/Inox here:
 https://github.com/scalameta/metals/issues/2198
 
@@ -20,3 +22,7 @@ You'll then have to substitute that name somewhere in stainless's built.sbt and 
 At that point you'll be using your locally modified version of inox
 
 https://github.com/scalameta/metals/issues/2198
+
+# Version control
+
+Nightly builds: https://en.wikipedia.org/wiki/Neutral_build

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git commands"
-date:   2020-10-05 16:39:24 +0200
+date:   2020-10-20 16:39:24 +0200
 categories: git
 ---
 

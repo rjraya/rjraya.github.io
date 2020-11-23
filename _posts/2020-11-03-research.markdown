@@ -56,6 +56,22 @@ Transfinite Step-Indexing for Termination
 [winston]: https://www.youtube.com/watch?v=vtIzMaLkCaM
 [peyton]: https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
 
+# Programming
+
+Metaprogramming: https://infoscience.epfl.ch/record/232427?ln=fr
+
+# People that care
+
+https://www.logicmatters.net/
+
 # Events
 
 http://www.cs.nott.ac.uk/MGS/
+
+# Problems
+
+Does a measure characterize the semantics of a program or the syntax. Can we find these invariants independently of the implementation?
+
+Does every recursive function have a measure?
+
+Göedel's problem: find complexity theory of recursive functions.

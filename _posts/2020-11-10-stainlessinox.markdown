@@ -26,3 +26,22 @@ https://github.com/scalameta/metals/issues/2198
 # Version control
 
 Nightly builds: https://en.wikipedia.org/wiki/Neutral_build
+
+# Compilers
+
+What is method `setPos` in:
+
+  abstract class Tree extends utils.Positioned with Serializable {
+    def copiedFrom(o: Trees#Tree): this.type = setPos(o)
+
+# Program transformation
+
+There are different flavours including program generation, program analysis and program transformation. 
+
+Stainless and Inox seem to work on the area of program transformation from which the pervasive program transformers. 
+
+So here I collect some work on metaprogramming:
+
+https://www.cl.cam.ac.uk/teaching/1819/L305/
+https://www.cl.cam.ac.uk/teaching/1718/L28/
+https://www.cl.cam.ac.uk/events/metaprog/

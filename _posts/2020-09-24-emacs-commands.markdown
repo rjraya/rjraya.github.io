@@ -7,7 +7,9 @@ categories: emacs
 
 # Where the hell is the emacs init file?
 
-[Here][init]
+[Here][init] you can find an explanation. To be quick run:
+
+C-x C-f ~/.emacs.d/init.el RET
 
 # How do hell do I learn org-mode?
 

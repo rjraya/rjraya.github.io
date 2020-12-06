@@ -5,9 +5,29 @@ date:   2020-09-24 16:39:24 +0200
 categories: emacs
 ---
 
-Here I list all mysterious emacs commands.
+## Where the hell is the emacs init file?  
 
-# Help commands
+[Here][init] you can find an explanation. To be quick run:
+
+ C-x C-f ~/.emacs.d/init.el RET
+
+ To restart after some change has happenned run:
+ 
+  M-x eval-buffer
+
+## How hell do I learn org-mode?  
+
+[Here][org] you can find a manual and a [quickstart][quick] guide.
+
+## How the hell do I use org-journal?
+
+See [project page][journal]
+
+## How do I learn emacs commands?  
+
+The GNU Emacs [manual][gnu].
+
+# Help commands  
 
 See: https://www.cs.colostate.edu/helpdocs/emacs.html
 
@@ -15,7 +35,7 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 | ------------- | ------------- |
 | C-h ? | help for help  |
 
-# Search commands
+# Search commands  
 
 | Command  | Description |
 | ------------- | ------------- |
@@ -23,10 +43,26 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 
 TODO: once found, how to scan new commands
 
-# Coq commands
+# Fix mistakes  
+
+| Command       | Description   |
+| ------------- | ------------- |
+| C-g           | quits current command |
+
+
+* 	C-g 	keyboard-quit: if while typing a command you make a mistake and want to stop,
+  this aborts a command in progress
+
+# Coq commands  
 
 TODO: is it my settings?
 
 | Command  | Description |
 | ------------- | ------------- |
 | C-c C-d | see definition of Coq code |
+
+[init]: https://www.emacswiki.org/emacs/InitFile
+[quick]: https://orgmode.org/quickstart.html
+[org]: https://orgmode.org/
+[gnu]: https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html
+[journal]: https://github.com/bastibe/org-journal

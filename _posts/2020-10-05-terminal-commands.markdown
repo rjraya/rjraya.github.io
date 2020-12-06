@@ -2,7 +2,12 @@
 layout: post
 title:  "Terminal utilities"
 date:   2020-10-05 16:39:24 +0200
-categories: emacs
+categories: bash
 ---
 
-https://gnometerminator.blogspot.com/p/introduction.html
+# Bash
+
+https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+https://www.gnu.org/software/bash/
+
+How to find the right bash command from documentation?

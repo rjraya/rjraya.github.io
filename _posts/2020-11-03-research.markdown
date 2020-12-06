@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Research"
-date:   2021-10-03 16:39:24 +0200
+date:   2020-11-03 16:39:24 +0200
 categories: links
 ---
 
@@ -31,12 +31,17 @@ Watch for Tarski and Cousot.
 
 https://www.chargueraud.org/research/2010/fix/fix.pdf
 
+### Others
+
+	
+Transfinite Step-Indexing for Termination
+
 
 # Writing
 
 [The Craft of Writing Effectively][mcenerney] 
 
-# Talk
+# Talks
 
 [How To Speak by Patrick Winston][winston]
 
@@ -51,6 +56,20 @@ https://www.chargueraud.org/research/2010/fix/fix.pdf
 [winston]: https://www.youtube.com/watch?v=vtIzMaLkCaM
 [peyton]: https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/
 
+# Seminars
+
+http://msp.cis.strath.ac.uk/links.html
+https://www.miguelmath.com/webminars.html
+
+# Programming
+
+Metaprogramming: https://infoscience.epfl.ch/record/232427?ln=fr
+
+# Resources
+
+https://www.logicmatters.net/
+
 # Events
 
 http://www.cs.nott.ac.uk/MGS/
+

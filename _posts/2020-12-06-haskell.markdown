@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Haskell"
+date:   2020-12-06 16:39:24 +0200
+categories: haskell
+---
+
+# Package manager for Haskell
+
+Here is the documentation of [cabal][cabal-doc]
+
+# A build tool for stack
+
+Here is the documentation of [stack][stack-doc]
+
+# How to search haskell functions
+
+Here is [hoogle][hoogle-doc]
+
+# How to setup haskell
+
+We want the generic version for compatiblity issues. So [set up][setup-doc]
+
+[cabal-doc][https://cabal.readthedocs.io/en/3.4/getting-started.html]
+[stack-doc][https://docs.haskellstack.org]
+[hoogle-doc][https://hoogle.haskell.org/]
+[setup-doc][https://www.haskell.org/platform/#linux-generic]

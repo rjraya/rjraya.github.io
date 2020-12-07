@@ -7,7 +7,7 @@ categories: git
 
 Here I collect some Scala nonsense. 
 
-[Self types][self-types]
+# [Self types][self-types]
 
 ```
 trait A { self: B => 
@@ -19,7 +19,7 @@ forces functionality of A to be only used by elements of type B.
 
 It declares a relation A uses B. 
 
-[Case classes][case-classes]
+# [Case classes][case-classes]
 
 I tried to write:
 
@@ -32,5 +32,9 @@ without the `case` but this lead to the following message:
 
 private value ... escapes its defining scope as part of type ...
 
+# [Scala collections][collections]
+
+
 [self-types]: https://docs.scala-lang.org/tour/self-types.html
 [case-classes]: https://docs.scala-lang.org/overviews/scala-book/case-classes.html
+[collections]: https://www.scala-lang.org/api/2.12.3/scala/collection/index.html?search=Map

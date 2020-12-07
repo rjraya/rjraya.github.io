@@ -2,7 +2,7 @@
 layout: post
 title:  "Haskell Design Patterns III"
 date:   2020-09-16 16:39:24 +0200
-categories: isabelle
+categories: haskell
 ---
 
 Patterns for composition

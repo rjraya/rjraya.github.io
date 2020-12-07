@@ -21,7 +21,7 @@ Here is [hoogle][hoogle-doc]
 
 We want the generic version for compatiblity issues. So [set up][setup-doc]
 
-[cabal-doc][https://cabal.readthedocs.io/en/3.4/getting-started.html]
-[stack-doc][https://docs.haskellstack.org]
-[hoogle-doc][https://hoogle.haskell.org/]
-[setup-doc][https://www.haskell.org/platform/#linux-generic]
+[cabal-doc]: https://cabal.readthedocs.io/en/3.4/getting-started.html
+[stack-doc]: https://docs.haskellstack.org
+[hoogle-doc]: https://hoogle.haskell.org/
+[setup-doc]: https://www.haskell.org/platform/#linux-generic

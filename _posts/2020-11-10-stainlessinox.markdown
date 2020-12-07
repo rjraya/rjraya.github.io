@@ -36,12 +36,8 @@ What is method `setPos` in:
 
 # Program transformation
 
-There are different flavours including program generation, program analysis and program transformation. 
+There are different flavours including program generation, program analysis and program transformation. Stainless and Inox seem to work on the area of program transformation from which the pervasive program transformers. There are convenient APIs to transform the syntax trees of our programs. 
 
-Stainless and Inox seem to work on the area of program transformation from which the pervasive program transformers. 
+First, there is a hierarchy of transformers design to capture high-level concepts. Search for transformers in Inox or Stainless. 
 
-So here I collect some work on metaprogramming:
-
-https://www.cl.cam.ac.uk/teaching/1819/L305/
-https://www.cl.cam.ac.uk/teaching/1718/L28/
-https://www.cl.cam.ac.uk/events/metaprog/
+Second, there is a convenient API to modify expressions. So this one captures local transformations. 

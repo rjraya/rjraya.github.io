@@ -11,9 +11,13 @@ Here I collect some tricks on Git.
 
 [Git manual][manual]
 
+# Git shortcuts
+
+[Keyboard shortcuts][shortcuts]
+
 # Specific commands
 
 `git blame file | less` will show for a given file who committed each line. After, to search, one can type `/` and to go back `<`.  
 
 [manual]: https://git-scm.com/book/en/v2
-
+[shortcuts]: https://help.github.com/en/enterprise/2.15/user/articles/keyboard-shortcuts

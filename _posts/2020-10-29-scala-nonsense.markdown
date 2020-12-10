@@ -34,7 +34,12 @@ private value ... escapes its defining scope as part of type ...
 
 # [Scala collections][collections]
 
+[An explanation][explanation]
+
+# [Scala online][quick-tests]
 
 [self-types]: https://docs.scala-lang.org/tour/self-types.html
 [case-classes]: https://docs.scala-lang.org/overviews/scala-book/case-classes.html
 [collections]: https://www.scala-lang.org/api/2.12.3/scala/collection/index.html?search=Map
+[quick-tests]: https://scastie.scala-lang.org
+[explanation]: https://docs.scala-lang.org/overviews/collections-2.13/overview.html

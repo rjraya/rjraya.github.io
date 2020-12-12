@@ -13,8 +13,17 @@ categories: isabelle
 
 Isabelle IRC channel on Freenode
 
+[Isabelle source][source]
+
+[Isabelle mirror on Github][mirror]
+
+[Isabelle links on github mirror][links] may contain other useful links.
+
 
 [mailing-list]: https://lists.cam.ac.uk/pipermail/cl-isabelle-users/index.html
 [stackoverflow]: https://stackoverflow.com/questions/tagged/isabelle
 [zulip]: https://isabelle.zulipchat.com/
+[source]: https://isabelle-dev.sketis.net/
+[mirror]: https://github.com/isabelle-prover
+[links]: https://isabelle.systems/
 

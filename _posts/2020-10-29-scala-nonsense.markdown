@@ -5,7 +5,7 @@ date:   2020-10-05 16:39:24 +0200
 categories: scala
 ---
 
-Here I collect some Scala nonsense. 
+Here I collect some Scala nonsense. For a list of things that will make you a master of such non-sense see the [Scala levels][levels].
 
 # [Case classes][case-classes]
 
@@ -64,3 +64,4 @@ The proposed solution is to mix-in the trait into its companion object and use o
 [selfless]: https://www.artima.com/scalazine/articles/selfless_trait_pattern.html
 [stackable]: https://www.artima.com/scalazine/articles/stackable_trait_pattern.html
 [trait]: https://contributors.scala-lang.org/t/using-cake-and-stackable-traits-patterns-together/1560
+[levels]: https://www.scala-lang.org/old/node/8610

@@ -41,3 +41,9 @@ There are different flavours including program generation, program analysis and 
 First, there is a hierarchy of transformers design to capture high-level concepts. Search for transformers in Inox or Stainless. 
 
 Second, there is a convenient API to modify expressions. So this one captures local transformations. 
+
+# Documentation
+
+The Inox API [is documented][documentation]. Do read them on github for quick browsing of markdown. 
+
+[documentation]: https://github.com/epfl-lara/inox/tree/master/src/main/doc

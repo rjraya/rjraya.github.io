@@ -41,8 +41,6 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 | ------------- | ------------- |
 | C-s |  prompts for text string and then searches from the current cursor position forwards in the buffer  |
 
-TODO: once found, how to scan new commands
-
 # Fix mistakes  
 
 | Command       | Description   |
@@ -50,12 +48,17 @@ TODO: once found, how to scan new commands
 | C-g           | quits current command |
 
 
-* 	C-g 	keyboard-quit: if while typing a command you make a mistake and want to stop,
-  this aborts a command in progress
+# Buffer commands 
+
+| Command       | Description   |
+| ------------- | ------------- |
+| C-x o         | moves to "other" buffer |
+| C-x k         | kills specified buffer |
+
 
 # Coq commands  
 
-TODO: is it my settings?
+See settings in .emacs configuration file.
 
 | Command  | Description |
 | ------------- | ------------- |

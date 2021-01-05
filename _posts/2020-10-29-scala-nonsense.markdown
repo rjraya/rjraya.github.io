@@ -45,7 +45,7 @@ trait A { self: B => ... }
 ## [Self-less trait pattern][selfless]
 
 At some point, the library we build will have many services which will be mixed-in by their users. To avoid code duplication, one can
-create convenience traits mixing and perhaps extending the functionality before presented to the end-users. In this process, it is often occur that we get name conflicts, for instance we could get two method with different types which don't overload each other. 
+create convenience traits mixing and perhaps extending the functionality before presented to the end-users. In this process, it often occurs that we get name conflicts, for instance we could get two method with different types which don't overload each other. 
 
 The proposed solution is to mix-in the trait into its companion object and use object import whenever necessary to avoid the clash. 
 

@@ -7,7 +7,10 @@ categories: bash
 
 # Bash
 
-https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-https://www.gnu.org/software/bash/
+[Wikipedia][https://en.wikipedia.org/wiki/Bash_(Unix_shell)]
+[Manual][https://www.gnu.org/software/bash/]
 
 How to find the right bash command from documentation?
+
+[Wikipedia]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[Manual]: https://www.gnu.org/software/bash/

@@ -21,7 +21,7 @@
 title: Computational reflections
 email: rodrigo.raya@epfl.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  A starting blog based on my (computational) reflections.
+  Programs are not written. They grow!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

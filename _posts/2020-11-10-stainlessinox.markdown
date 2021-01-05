@@ -46,4 +46,7 @@ Second, there is a convenient API to modify expressions. So this one captures lo
 
 The Inox API [is documented][documentation]. Do read them on github for quick browsing of markdown. 
 
+The Stainless sofware [is documented][stainlessdoc].
+
 [documentation]: https://github.com/epfl-lara/inox/tree/master/src/main/doc
+[stainlessdoc]: https://epfl-lara.github.io/stainless/

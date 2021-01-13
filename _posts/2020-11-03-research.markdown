@@ -7,35 +7,11 @@ categories: links
 
 Links for my research:
 
-# Related work
+# Papers discussions
 
-## Systems
+[Papers we love][love]
 
-[Termination in Isabelle][krauss]
-[Rewrite engine with DSL][kansas]
-
-## Link with topology
-
-### General
-
-[Application de la topologie algébrique en informatique théorique][dubut]
-
-### Progress measures
-
-Watch for Tarski and Cousot. 
-
-[Lattice-Theoretic Progress Measuresand Coalgebraic Model Checking][dubut1]
-[Fibrational Framework for Nested Alternating Fixed Points and(Bi)Simulation Notions for Büchi Automata][aristote]
-
-### Coinduction
-
-https://www.chargueraud.org/research/2010/fix/fix.pdf
-
-### Others
-
-	
-Transfinite Step-Indexing for Termination
-
+[love]: https://www.youtube.com/c/PapersWeLove/
 
 # Writing
 
@@ -58,8 +34,12 @@ Transfinite Step-Indexing for Termination
 
 # Seminars
 
-http://msp.cis.strath.ac.uk/links.html
-https://www.miguelmath.com/webminars.html
+[Mathematically Structured Programming Group][mcbride]
+[Miguel Moreno's list][moreno]
+
+[mcbride]: http://msp.cis.strath.ac.uk/links.html
+[moreno]: https://www.miguelmath.com/webminars.html
+
 
 # Programming
 

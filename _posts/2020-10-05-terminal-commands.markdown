@@ -7,10 +7,17 @@ categories: bash
 
 # Bash
 
-[Wikipedia][https://en.wikipedia.org/wiki/Bash_(Unix_shell)]
-[Manual][https://www.gnu.org/software/bash/]
+[Wikipedia][wiki]
+[Manual][man]
 
 How to find the right bash command from documentation?
 
-[Wikipedia]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-[Manual]: https://www.gnu.org/software/bash/
+# Specific commands
+
+| Command  | Description                   | References                  |
+| -------- | ----------------------------- | --------------------------- |
+| scp      | Copy files between computers  | [unix stack exchange][unix] |
+
+[wiki]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[man]: https://www.gnu.org/software/bash/
+[unix]: https://unix.stackexchange.com/questions/188285/how-to-copy-a-file-from-a-remote-server-to-a-local-machine

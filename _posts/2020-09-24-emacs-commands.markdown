@@ -23,6 +23,10 @@ categories: emacs
 
 See [project page][journal]
 
+## How do I use latex in emacs?
+
+See: [latex][latex]
+
 ## How do I learn emacs commands?  
 
 The GNU Emacs [manual][gnu].
@@ -55,6 +59,11 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 | C-x o         | moves to "other" buffer |
 | C-x k         | kills specified buffer |
 
+# Window commands
+
+| Command       | Description   |
+| ------------- | ------------- |
+| C-x 0         | Delete the selected window  |
 
 # Coq commands  
 
@@ -69,3 +78,4 @@ See settings in .emacs configuration file.
 [org]: https://orgmode.org/
 [gnu]: https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html
 [journal]: https://github.com/bastibe/org-journal
+[latex]: https://opensource.com/article/20/4/emacs-org-mode

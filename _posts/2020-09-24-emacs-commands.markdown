@@ -69,9 +69,15 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 
 See settings in .emacs configuration file.
 
-| Command  | Description |
+| Command       | Description |
 | ------------- | ------------- |
-| C-c C-d | see definition of Coq code |
+| C-c C-d       | see definition of Coq code |
+
+# Latex commands
+
+| Command       | Description |
+| ------------- | ------------- |
+| C-c C-x C-l   | see preview of latex snippets |
 
 [init]: https://www.emacswiki.org/emacs/InitFile
 [quick]: https://orgmode.org/quickstart.html

@@ -13,7 +13,10 @@ categories: alternative thinking
 
 [Why will we marry the wrong person?][marry]
 
+[Gérard Huet on research][huet]
+
 [jardineria]: https://elpais.com/elpais/2020/11/19/eps/1605786292_072842.html
 [mediocracia]: https://elpais.com/elpais/2019/08/30/ideas/1567166223_815812.html
 [royo]: https://smoda.elpais.com/belleza/bienestar/entrevista-adriana-royo-etica-del-despiadado/
 [marry]: https://www.youtube.com/watch?v=-EvvPZFdjyk
+[huet]: https://www.lemonde.fr/blog/binaire/2015/03/27/gerard-huet-la-poesie-du-logiciel/

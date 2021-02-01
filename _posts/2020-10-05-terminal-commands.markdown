@@ -18,6 +18,15 @@ How to find the right bash command from documentation?
 | -------- | ----------------------------- | --------------------------- |
 | scp      | Copy files between computers  | [unix stack exchange][unix] |
 
+
+# Example use
+
+| What | How |
+|------|-----|
+| Find text in files | grep -rnw '/path/to/somewhere/' -e 'pattern' |
+
+
+
 [wiki]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 [man]: https://www.gnu.org/software/bash/
 [unix]: https://unix.stackexchange.com/questions/188285/how-to-copy-a-file-from-a-remote-server-to-a-local-machine

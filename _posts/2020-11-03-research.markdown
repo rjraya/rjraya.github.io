@@ -45,6 +45,12 @@ Links for my research:
 
 Metaprogramming: https://infoscience.epfl.ch/record/232427?ln=fr
 
+# Mathematics
+
+[Tools for math][math]
+
+[math]: https://mathoverflow.net/questions/2147/most-helpful-math-resources-on-the-web
+
 # Resources
 
 https://www.logicmatters.net/

@@ -17,6 +17,7 @@ How to find the right bash command from documentation?
 | Command  | Description                   | References                  |
 | -------- | ----------------------------- | --------------------------- |
 | scp      | Copy files between computers  | [unix stack exchange][unix] |
+| grep     | Search for pattern in files   |                             |
 
 
 # Example use

@@ -5,7 +5,7 @@ date:   2020-09-24 16:39:24 +0200
 categories: emacs
 ---
 
-## Where the hell is the emacs init file?  
+## Where is the emacs init file?  
 
 [Here][init] you can find an explanation. To be quick run:
 
@@ -15,11 +15,11 @@ categories: emacs
  
   M-x eval-buffer
 
-## How hell do I learn org-mode?  
+## How do I learn org-mode?  
 
 [Here][org] you can find a manual and a [quickstart][quick] guide.
 
-## How the hell do I use org-journal?
+## How do I use org-journal?
 
 See [project page][journal]
 
@@ -31,13 +31,20 @@ See: [latex][latex]
 
 The GNU Emacs [manual][gnu].
 
+# Difference between frame, window, buffer and file.
+
+[See here][diff]
+
+[diff][https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame]
+
 # Help commands  
 
 See: https://www.cs.colostate.edu/helpdocs/emacs.html
 
-| Command  | Description |
-| ------------- | ------------- |
-| C-h ? | help for help  |
+| Command  | Description                     |
+| ---------| ------------------------------- |
+| C-h ?    | help for help                   |
+| C-h k    | documentation of a key sequence |
 
 # Search commands  
 

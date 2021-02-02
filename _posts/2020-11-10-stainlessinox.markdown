@@ -13,19 +13,27 @@ I described issues building Stainless/Inox here:
 https://github.com/scalameta/metals/issues/2198
 
 I was told of another approach:
-Yes, you just check out Inox locally, make changes and then run publishLocal from its sbt project
 
-That'll produce a new jar somewhere locally (whose semi-auto-generated name you can see in the sbt output)
+1. Check out Inox locally.
+2. Make changes and run publishLocal from its sbt project.
+3. That produces a new jar locally whose semi-auto-generated name you can see in the sbt output.
+4. Substitute that name in stainless's built.sbt and reload the stainless sbt project.
 
-You'll then have to substitute that name somewhere in stainless's built.sbt and reload the stainless sbt project
-
-At that point you'll be using your locally modified version of inox
-
-https://github.com/scalameta/metals/issues/2198
+At that point you are using your locally modified version of Inox.
 
 # Version control
 
-Nightly builds: https://en.wikipedia.org/wiki/Neutral_build
+[Nightly builds][neutral]
+
+[neutral]: https://en.wikipedia.org/wiki/Neutral_build
+
+# Testing
+
+Scenario: To print which tests use the recursion processor.
+
+How to do it: when running the test suite, all files get compiled together.
+However, you could pick some function's id and print out fd.getpos.fullString.
+That will include the source file path, if known.
 
 # Compilers
 

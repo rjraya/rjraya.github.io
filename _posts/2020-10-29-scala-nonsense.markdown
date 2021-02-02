@@ -26,9 +26,14 @@ private value ... escapes its defining scope as part of type ...
 
 # [Scala online][quick-tests]
 
-# [Scala interpreter][interpreter]
+# Scala interpreter
 
-It's benefits are yet unknown to us mortals. 
+There is documentation giving an [overview][interpreter].
+
+There is information on how to use it on the [scala book][bookrepl]
+
+[interpreter]: https://docs.scala-lang.org/overviews/repl/overview.html
+[bookrepl]: https://docs.scala-lang.org/overviews/scala-book/scala-repl.html
 
 # Wild traits
 
@@ -51,7 +56,7 @@ The proposed solution is to mix-in the trait into its companion object and use o
 
 ## [Stackable trait pattern][stackable]
 
-## [Cake pattern][cake]
+## Cake pattern
 
 
 
@@ -60,7 +65,6 @@ The proposed solution is to mix-in the trait into its companion object and use o
 [collections]: https://www.scala-lang.org/api/2.12.3/scala/collection/index.html?search=Map
 [quick-tests]: https://scastie.scala-lang.org
 [explanation]: https://docs.scala-lang.org/overviews/collections-2.13/overview.html
-[interpreter]: https://docs.scala-lang.org/overviews/repl/overview.html
 [selfless]: https://www.artima.com/scalazine/articles/selfless_trait_pattern.html
 [stackable]: https://www.artima.com/scalazine/articles/stackable_trait_pattern.html
 [trait]: https://contributors.scala-lang.org/t/using-cake-and-stackable-traits-patterns-together/1560

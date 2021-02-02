@@ -59,3 +59,10 @@ https://www.logicmatters.net/
 
 http://www.cs.nott.ac.uk/MGS/
 
+# Why work on a small field.
+
+I learnt this [here][jeff]. Here is a [video][small]
+
+[jeff]: http://jeffe.cs.illinois.edu/
+[small]: https://www.youtube.com/watch?v=c0bsKc4tiuY
+

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Scala non-sense"
+title:  "Scala"
 date:   2020-10-05 16:39:24 +0200
 categories: scala
 ---
 
-Here I collect some Scala nonsense. For a list of things that will make you a master of such non-sense see the [Scala levels][levels].
+Here I collect some Scala. For a list of things that will make you a master of it see the [Scala levels][levels].
 
 # [Case classes][case-classes]
 
@@ -30,10 +30,13 @@ private value ... escapes its defining scope as part of type ...
 
 There is documentation giving an [overview][interpreter].
 
-There is information on how to use it on the [scala book][bookrepl]
+There is information on how to use it on the [scala book][bookrepl].
+
+But it arrives that you cannot type in the interpreter, so try [from sbt][sbtrepl]
 
 [interpreter]: https://docs.scala-lang.org/overviews/repl/overview.html
 [bookrepl]: https://docs.scala-lang.org/overviews/scala-book/scala-repl.html
+[sbtrepl]: https://docs.scala-lang.org/overviews/scala-book/scala-repl.html
 
 # Wild traits
 

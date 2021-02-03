@@ -5,41 +5,40 @@ date:   2020-09-24 16:39:24 +0200
 categories: emacs
 ---
 
-## Where is the emacs init file?  
+# How to guide:  
 
-[Here][init] you can find an explanation. To be quick run:
+- Find emacs init file: [here][init] you can find an explanation. Run: C-x C-f ~/.emacs.d/init.el RET
 
- C-x C-f ~/.emacs.d/init.el RET
+To restart after some change has happenned run: M-x eval-buffer
 
- To restart after some change has happenned run:
- 
-  M-x eval-buffer
+[init]: https://www.emacswiki.org/emacs/InitFile
 
-## How do I learn org-mode?  
+- Use org-mode: [here][org] you can find a manual and here a [quickstart][quick] guide.
 
-[Here][org] you can find a manual and a [quickstart][quick] guide.
+[org]: https://orgmode.org/
+[quick]: https://orgmode.org/quickstart.html
 
-## How do I use org-journal?
+- Use org-journal: see [project page][journal]
 
-See [project page][journal]
+[journal]: https://github.com/bastibe/org-journal
 
-## How do I use latex in emacs?
+- Use latex in emacs: see [latex][latex]
 
-See: [latex][latex]
+[latex]: https://opensource.com/article/20/4/emacs-org-mode
 
-## How do I learn emacs commands?  
+- Use emacs commands: see the GNU Emacs [manual][gnu]
 
-The GNU Emacs [manual][gnu].
+[gnu]: https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html
 
-# Difference between frame, window, buffer and file.
+# Concepts explanation
+
+- Difference between frame, window, buffer and file.
 
 [See here][diff]
 
-[diff][https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame]
+[diff]: https://emacs.stackexchange.com/questions/13583/whats-the-difference-between-a-buffer-a-file-a-window-and-a-frame
 
 # Help commands  
-
-See: https://www.cs.colostate.edu/helpdocs/emacs.html
 
 | Command  | Description                     |
 | ---------| ------------------------------- |
@@ -68,9 +67,11 @@ See: https://www.cs.colostate.edu/helpdocs/emacs.html
 
 # Window commands
 
-| Command       | Description   |
-| ------------- | ------------- |
-| C-x 0         | Delete the selected window  |
+| Command       | Description                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------------- |
+| C-x 0         | Delete the selected window                                                                     |
+| C-x 2         | Split the selected window into two windows, one above the other (split-window-vertically)      |
+| C-x 3         | Split the selected window into two windows positioned side by side (split-window-horizontally) | 
 
 # Coq commands  
 
@@ -86,9 +87,3 @@ See settings in .emacs configuration file.
 | ------------- | ------------- |
 | C-c C-x C-l   | see preview of latex snippets |
 
-[init]: https://www.emacswiki.org/emacs/InitFile
-[quick]: https://orgmode.org/quickstart.html
-[org]: https://orgmode.org/
-[gnu]: https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html
-[journal]: https://github.com/bastibe/org-journal
-[latex]: https://opensource.com/article/20/4/emacs-org-mode

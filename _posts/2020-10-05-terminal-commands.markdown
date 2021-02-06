@@ -25,6 +25,7 @@ How to find the right bash command from documentation?
 | What | How |
 |------|-----|
 | Find text in files | grep -rnw '/path/to/somewhere/' -e 'pattern' |
+| Find files with given name | find /path/to/file/ -iname filename* |
 
 
 

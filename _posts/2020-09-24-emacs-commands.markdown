@@ -60,10 +60,12 @@ To restart after some change has happenned run: M-x eval-buffer
 
 # Buffer commands 
 
-| Command       | Description   |
-| ------------- | ------------- |
-| C-x o         | moves to "other" buffer |
-| C-x k         | kills specified buffer |
+| Command       | Description                                                 |
+| ------------- | ----------------------------------------------------------- |
+| C-x o         | moves to "other" buffer                                     |
+| C-x k         | kills specified buffer                                      |
+| C-x LEFT      | select previous buffer in the buffer list (previous-buffer) | 
+| C-x RIGHT     | select the next buffer in the buffer list (next-buffer)     |
 
 # Window commands
 
@@ -87,3 +89,8 @@ See settings in .emacs configuration file.
 | ------------- | ------------- |
 | C-c C-x C-l   | see preview of latex snippets |
 
+# Terminal commands
+
+| Command       | Description |
+| ------------- | ------------- |
+| M-x term   | launch terminal |

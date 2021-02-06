@@ -43,7 +43,13 @@ Links for my research:
 
 # Programming
 
-Metaprogramming: https://infoscience.epfl.ch/record/232427?ln=fr
+- Praxis tendatum docebit. 
+
+- [Metaprogramming][meta]
+
+- To know the type of a variable just write `val x: SomeRandomType = _` and wait for the compiler to check it.
+
+[meta]: https://infoscience.epfl.ch/record/232427?ln=fr
 
 # Mathematics
 

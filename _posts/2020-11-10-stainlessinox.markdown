@@ -9,8 +9,8 @@ Here are some notes on dealing with some software tools I'm working on.
 
 # Developing
 
-I described issues building Stainless/Inox here:
-https://github.com/scalameta/metals/issues/2198
+I described issues building Stainless/Inox [here][build].
+[build]: https://github.com/scalameta/metals/issues/2198
 
 I was told of another approach:
 
@@ -65,3 +65,8 @@ The Stainless sofware [is documented][stainlessdoc].
 
 [documentation]: https://github.com/epfl-lara/inox/tree/master/src/main/doc
 [stainlessdoc]: https://epfl-lara.github.io/stainless/
+
+# Related projects
+
+[Viper][viper]
+[viper]: http://viper.ethz.ch/tutorial

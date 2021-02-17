@@ -42,7 +42,7 @@ But it arrives that you cannot type in the interpreter, so try [from sbt][sbtrep
 
 Traits are thought as services or as in Java jargon, interfaces, which can be offered to users of a library via "mix-in composition".
 
-## [Self types][self-types]
+# [Self types][self-types]
 
 Using a self type restricts the type of classes in which a trait can be mixed in. 
 
@@ -50,19 +50,28 @@ Using a self type restricts the type of classes in which a trait can be mixed in
 trait A { self: B => ... }
 ```
 
-## [Self-less trait pattern][selfless]
+# [Self-less trait pattern][selfless]
 
 At some point, the library we build will have many services which will be mixed-in by their users. To avoid code duplication, one can
 create convenience traits mixing and perhaps extending the functionality before presented to the end-users. In this process, it often occurs that we get name conflicts, for instance we could get two method with different types which don't overload each other. 
 
 The proposed solution is to mix-in the trait into its companion object and use object import whenever necessary to avoid the clash. 
 
-## [Stackable trait pattern][stackable]
+# [Stackable trait pattern][stackable]
 
-## Cake pattern
+# Cake pattern
 
+# Early initializers
 
+[Early initializers][init] are part of the constructor of a subclass that is intended to run before its superclass.
 
+# Singleton types
+
+[Explanation here][single]
+
+[single]: https://stackoverflow.com/questions/33052086/what-is-a-singleton-type-exactly
+
+[init]: https://stackoverflow.com/questions/4712468/in-scala-what-is-an-early-initializer
 [self-types]: https://docs.scala-lang.org/tour/self-types.html
 [case-classes]: https://docs.scala-lang.org/overviews/scala-book/case-classes.html
 [collections]: https://www.scala-lang.org/api/2.12.3/scala/collection/index.html?search=Map

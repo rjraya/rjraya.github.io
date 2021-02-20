@@ -57,18 +57,21 @@ Links for my research:
 
 [math]: https://mathoverflow.net/questions/2147/most-helpful-math-resources-on-the-web
 
-# Resources
+[References for logic][logic]
 
-https://www.logicmatters.net/
+[logic]: https://www.logicmatters.net/
 
 # Events
 
 http://www.cs.nott.ac.uk/MGS/
 
-# Why work on a small field.
+# Advice. 
 
-I learnt this [here][jeff]. Here is a [video][small]
+[Why work on a small field][jeff]. Here is a [video][small]
 
 [jeff]: http://jeffe.cs.illinois.edu/
 [small]: https://www.youtube.com/watch?v=c0bsKc4tiuY
 
+[Blum's advice to a beginnig graduate student][blum]
+
+[blum]: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html

@@ -34,10 +34,12 @@ Links for my research:
 
 # Seminars
 
-[Mathematically Structured Programming Group][mcbride]
-[Miguel Moreno's list][moreno]
+[Mathematically Structured Programming Group][mcbride].
 
 [mcbride]: http://msp.cis.strath.ac.uk/links.html
+
+[Miguel Moreno's list][moreno].
+
 [moreno]: https://www.miguelmath.com/webminars.html
 
 
@@ -53,21 +55,23 @@ Links for my research:
 
 # Mathematics
 
-[Tools for math][math]
+[Tools for math][math].
 
 [math]: https://mathoverflow.net/questions/2147/most-helpful-math-resources-on-the-web
 
-[References for logic][logic]
+[References for logic][logic].
 
 [logic]: https://www.logicmatters.net/
 
 # Events
 
-http://www.cs.nott.ac.uk/MGS/
+[Midlands graduate school][midlands]
+
+[midlands]: http://www.cs.nott.ac.uk/MGS/
 
 # Advice. 
 
-[Why work on a small field][jeff]. Here is a [video][small]
+[Why work on a small field][jeff]. Here is a [video][small].
 
 [jeff]: http://jeffe.cs.illinois.edu/
 [small]: https://www.youtube.com/watch?v=c0bsKc4tiuY

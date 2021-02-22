@@ -33,7 +33,7 @@ We use the [sbt testing infrastructure][sbttest] and [scala test][scalatest].
 
 Running it:test runs the so-called integration tests which are configured in build.sbt.
 
-Scenario: To print which tests use the recursion processor.
+- Scenario: To print which tests use the recursion processor.
 
 How to do it: when running the test suite, all files get compiled together.
 However, you could pick some function's id and print out fd.getpos.fullString.
@@ -41,6 +41,10 @@ That will include the source file path, if known.
 
 [sbttest]: https://www.scala-sbt.org/1.x/docs/Testing.html
 [scalatest]: https://www.scalatest.org/user_guide/using_scalatest_with_sbt
+
+- Scenario: run only tests in a certain suite.
+
+sbt "it:testOnly *YourSuite*"
 
 # Compilers
 
@@ -69,4 +73,9 @@ The Stainless sofware [is documented][stainlessdoc].
 # Related projects
 
 [Viper][viper]
+
 [viper]: http://viper.ethz.ch/tutorial
+
+[Liquid Haskell][liquid]
+
+[liquid]: https://ucsd-progsys.github.io/liquidhaskell-blog/

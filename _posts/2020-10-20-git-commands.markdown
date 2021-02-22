@@ -21,3 +21,7 @@ Here I collect some tricks on Git.
 
 [manual]: https://git-scm.com/book/en/v2
 [shortcuts]: https://help.github.com/en/enterprise/2.15/user/articles/keyboard-shortcuts
+
+# Scenarios
+
+- You switched to a branch and lost files in current files: you can recover them in your .Trash file. 

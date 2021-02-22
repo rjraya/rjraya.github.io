@@ -49,7 +49,6 @@ Links for my research:
 
 - [Metaprogramming][meta]
 
-- To know the type of a variable just write `val x: SomeRandomType = _` and wait for the compiler to check it.
 
 [meta]: https://infoscience.epfl.ch/record/232427?ln=fr
 

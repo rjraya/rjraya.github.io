@@ -49,7 +49,17 @@ To restart after some change has happenned run: M-x eval-buffer
 
 | Command  | Description |
 | ------------- | ------------- |
-| C-s |  prompts for text string and then searches from the current cursor position forwards in the buffer  |
+| C-s | interactive search (isearch) |
+| C-s | in isearch, jump to next occurrence |
+| C-r | in isearch, jump to previous occurrence |
+| C-g | in isearch, exit place cursor at original position |
+| Enter | in isearch, exit and place cursor at current position |
+
+
+
+[A reference][searchref]
+
+[searchref]: http://ergoemacs.org/emacs/emacs_search_current_word.html
 
 # Fix mistakes  
 

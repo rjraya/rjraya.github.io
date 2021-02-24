@@ -75,6 +75,8 @@ Links for my research:
 [jeff]: http://jeffe.cs.illinois.edu/
 [small]: https://www.youtube.com/watch?v=c0bsKc4tiuY
 
-[Blum's advice to a beginnig graduate student][blum]
+[Blum's advice to a beginnig graduate student][blum].
 
 [blum]: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html
+
+I hire people brighter than me and then I get out of their way, Lee Iacocca.

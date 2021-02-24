@@ -7,12 +7,13 @@ categories: links
 
 Here are some notes on dealing with some software tools I'm working on. 
 
-# Developing
+# Integrating both tools
 
 I described issues building Stainless/Inox [here][build].
+
 [build]: https://github.com/scalameta/metals/issues/2198
 
-I was told of another approach:
+Here is a method to use under sbt:
 
 1. Check out Inox locally.
 2. Make changes and run publishLocal from its sbt project.
@@ -20,6 +21,10 @@ I was told of another approach:
 4. Substitute that name in stainless's built.sbt and reload the stainless sbt project.
 
 At that point you are using your locally modified version of Inox.
+
+Here is an [sbt file][master-with-inox] to do it in yet another way.
+
+[master-with-inox][https://github.com/jad-hamza/stainless/blob/master-with-local-inox/build.sbt]
 
 # Version control
 
@@ -45,6 +50,10 @@ That will include the source file path, if known.
 - Scenario: run only tests in a certain suite.
 
 sbt "it:testOnly *YourSuite*"
+
+# Debugging
+
+
 
 # Compilers
 

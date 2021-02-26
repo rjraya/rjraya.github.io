@@ -22,9 +22,9 @@ Here is a method to use under sbt:
 
 At that point you are using your locally modified version of Inox.
 
-Here is an [sbt file][master-with-inox] to do it in yet another way.
+Here is an [sbt file][masterwithinox] to do it in yet another way.
 
-[master-with-inox][https://github.com/jad-hamza/stainless/blob/master-with-local-inox/build.sbt]
+[masterwithinox][https://github.com/jad-hamza/stainless/blob/master-with-local-inox/build.sbt]
 
 # Version control
 
@@ -53,7 +53,12 @@ sbt "it:testOnly *YourSuite*"
 
 # Debugging
 
+Print extra information:
 
+println(annotatedSymbols.asString(
+      new PrinterOptions(printUniqueIds = true, 
+                         printTypes = true, 
+                         symbols = Some(annotatedSymbols))))
 
 # Compilers
 

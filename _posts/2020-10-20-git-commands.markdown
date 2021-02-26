@@ -17,10 +17,13 @@ Here I collect some tricks on Git.
 
 # Specific commands
 
-`git blame file | less` will show for a given file who committed each line. After, to search, one can type `/` and to go back `<`.  
+`git blame file | less` will show for a given file who committed each line. After, to search, one can type `/` and to go back `<`.
+
+[Update forked repository][update]
 
 [manual]: https://git-scm.com/book/en/v2
 [shortcuts]: https://help.github.com/en/enterprise/2.15/user/articles/keyboard-shortcuts
+[update]: https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository
 
 # Scenarios
 

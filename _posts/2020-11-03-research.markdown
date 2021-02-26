@@ -68,7 +68,7 @@ Links for my research:
 
 [midlands]: http://www.cs.nott.ac.uk/MGS/
 
-# Advice. 
+# Advice
 
 [Why work on a small field][jeff]. Here is a [video][small].
 
@@ -80,3 +80,9 @@ Links for my research:
 [blum]: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html
 
 I hire people brighter than me and then I get out of their way, Lee Iacocca.
+
+What does someone know about a topic? Read his/her publication list bibliography.
+
+# Prizes
+
+Bill McCune PhD Award in Automated Reasoning

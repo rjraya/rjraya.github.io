@@ -1,0 +1,9 @@
+---
+usemathjax: true
+layout: post
+title:  "Quantifier elimination"
+date:   2021-03-07 16:00:24 +0200
+categories: logic
+---
+
+$$E=mc^2$$

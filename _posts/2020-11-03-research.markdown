@@ -83,6 +83,10 @@ I hire people brighter than me and then I get out of their way, Lee Iacocca.
 
 What does someone know about a topic? Read his/her publication list bibliography.
 
+[Faraday's rules][rules]
+
+[rules]: https://es.wikipedia.org/wiki/Michael_Faraday
+
 # Prizes
 
 Bill McCune PhD Award in Automated Reasoning

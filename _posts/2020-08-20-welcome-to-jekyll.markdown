@@ -26,8 +26,11 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 # Personal practices
 
-Run `bundle exec jekyll serve` to build locally. 
+Run `bundle exec jekyll serve` to build locally.
 
+Enabled mathjax following this [guide][math].
+
+[math]: https://medium.com/coffee-in-a-klein-bottle/creating-a-mathematics-blog-with-jekyll-78cdee0339f3
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

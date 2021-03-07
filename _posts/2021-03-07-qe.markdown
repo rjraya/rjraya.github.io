@@ -6,4 +6,9 @@ date:   2021-03-07 16:00:24 +0200
 categories: logic
 ---
 
-$$E=mc^2$$
+The answer of Carl Mummert to [this question][understanding] gives an intuition on why quantifier elimination can be useful in automated reasoning.
+
+[understanding]: https://math.stackexchange.com/questions/696007/i-need-help-understanding-quantifier-elimination
+
+Otherwise, the standard reference seem's to be Hodges' Model theory (see Wikipedia for "Quantifier elimination").
+
